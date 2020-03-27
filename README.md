@@ -1,1 +1,1 @@
-Simple Julia Set dwaing app written in C#
+Simple Julia Set drawing app written in C#
